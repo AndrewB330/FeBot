@@ -1,0 +1,11 @@
+{
+  "name": "febot",
+  "version": "1.0.0",
+  "description": "FeBot is the greates bot in the wild!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
