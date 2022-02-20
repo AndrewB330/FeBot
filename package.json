@@ -4,8 +4,13 @@
   "description": "FeBot is the greates bot in the wild!",
   "main": "index.js",
   "scripts": {
+    "run": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "openai": "^2.0.4"
+  }
 }
